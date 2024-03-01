@@ -38,6 +38,12 @@ The script will parse the provided URL, attempt to log in, retrieve service deta
 
 This script is intended for educational purposes and for use with services for which you have legitimate access rights. Unauthorized access to or use of telecommunication services is illegal and unethical. It is the user's responsibility to comply with all applicable laws and terms of service.
 
+## Donation
+- USDt (TRC20): `TGCVbSSJbwL5nyXqMuKY839LJ5q5ygn2uS`
+- BTC: `13GS1ixn2uQAmFQkte6qA5p1MQtMXre6MT`
+- ETH (ERC20): `0xdbc7a7dafbb333773a5866ccf7a74da15ee654cc`
+- LTC: `Ldb6SDxUMEdYQQfRhSA3zi4dCUtfUdsPou`
+
 ## License
 
 MIT License
