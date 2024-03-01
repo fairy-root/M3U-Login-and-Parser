@@ -27,7 +27,7 @@ To use this script, follow these steps:
 1. Run the script using Python:
 
 ```bash
-python script_name.py
+python iptv.py
 ```
 
 2. When prompted, enter an M3U URL or type 'exit' to quit the script.
